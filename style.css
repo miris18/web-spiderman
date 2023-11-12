@@ -1,0 +1,19 @@
+body{background-image: url("maxresdefault.jpg");}
+h1,h2{
+    color: rgb(252, 0, 88);
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: rgb(0, 0, 255);
+    font-size: 20px;
+}
+p{
+    color: rgb(255, 0, 0);
+    font-size: 45px;
+text-align: center;
+}
+img{width: 350px;
+height: 350px;
+margin-left: 200;
+
+}
